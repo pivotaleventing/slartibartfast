@@ -1,2 +1,2 @@
-# slartibartfast
-Slartibartfast is the creator of cloud infrastructure
+# Slartibartfast
+Slartibartfast (or slarti for short) is the creator of cloud infrastructure.
